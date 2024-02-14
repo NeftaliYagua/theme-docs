@@ -13,6 +13,9 @@
   "browserslist": [
     "last 2 versions"
   ],
+  "scripts": {
+    "serve": "./node_modules/.bin/gulp preview"
+  },
   "devDependencies": {
     "@asciidoctor/core": "~2.2",
     "@fontsource/roboto": "~4.5",
